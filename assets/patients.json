@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Pritam Wagh",
+      "age": 32,
+      "image": "assets/patient1.jpg",
+      "description": "Abdominal CT Scan check-up"
+    },
+    {
+      "name": "Aparna Shetti",
+      "age": 40,
+      "image": "assets/patient2.jpg",
+      "description": "Follow-up on test results"
+    },
+    {
+      "name": "Ranvindra Zende",
+      "age": 45,
+      "image": "assets/patient3.jpg",
+      "description": "Consultation for Diabities"
+    },
+    {
+      "name": "Altaf Shaikh",
+      "age": 25,
+      "image": "assets/patient4.jpg",
+      "description": "Dental Checkup"
+    }
+
+  ]

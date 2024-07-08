@@ -1,0 +1,59 @@
+{
+    "doctors": [
+      {
+        "name": "Dr. Prajakta Mali",
+        "specialization": "Gynecologist",
+        "rating": 3.8,
+        "imageUrl": "assets/images/doctor1.jpg",
+        "description": "Dr. Prajakta Mali has over 6 years of experience in Gynecoloogy.",
+        "experience": 6,
+        "education": "MBBS, MD"
+      },
+      {
+        "name": "Dr. Amol Barhate",
+        "specialization": "Ophthalmologist",
+        "rating": 4.0,
+        "imageUrl": "assets/images/doctor2.jpg",
+        "description": "Dr. Amol is a well-known Ophthalmology with 16 years of experience.",
+        "experience": 16,
+        "education": "MBBS, MD"
+      },
+      {
+        "name": "Dr. Riya Agrawal",
+        "specialization": "Pulmonologist",
+        "rating": 4.1,
+        "imageUrl": "assets/images/doctor3.jpg",
+        "description": "Dr. Raj Nehete specializes in Pulmonology with 5 years of experience.",
+        "experience": 5,
+        "education": "MBBS, MD"
+      },
+      {
+        "name": "Dr. Raj Nehete",
+        "specialization": "Pediatrician",
+        "rating": 5,
+        "imageUrl": "assets/images/doctor4.jpg",
+        "description": "Dr. Raj Nehete has 10 years of experience as a pediatrician.",
+        "experience": 10,
+        "education": "MBBS, MD"
+      },
+      {
+        "name": "Dr. Pranav Shinde",
+        "specialization": "Neurologist",
+        "rating": 3.4,
+        "imageUrl": "assets/images/doctor5.jpg",
+        "description": "Dr. Mary Brown is an experienced Neurology with 4 years of experience.",
+        "experience": 4,
+        "education": "MBBS, MD"
+      },
+      {
+        "name": "Dr.Priya Deore",
+        "specialization": "Cardiologist",
+        "rating": 5.0,
+        "imageUrl": "assets/images/doctor6.jpg",
+        "description": "Dr. Richard Brown has over 17 years of experience in Cardiology.",
+        "experience": 17,
+        "education": "MBBS, MD"
+      }
+    ]
+  }
+  
