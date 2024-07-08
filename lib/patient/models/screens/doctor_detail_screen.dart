@@ -67,8 +67,8 @@ class _DoctorDetailScreenState extends State<DoctorDetailScreen> {
     DateTime? pickedDate = await showDatePicker(
       context: context,
       initialDate: _selectedDate,
-      firstDate: DateTime(2000),
-      lastDate: DateTime(2101),
+      firstDate: DateTime(1970),
+      lastDate: DateTime(2500),
     );
 
     if (pickedDate != null && pickedDate != _selectedDate) {
